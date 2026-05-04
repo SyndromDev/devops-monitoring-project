@@ -1,25 +1,11 @@
-Mini DevOps Monitoring Project
+Мини-проект мониторинга DevOps
 
-What this is
+Что это такое
 
-Simple monitoring system using Docker, Prometheus and Grafana.
+Простая система мониторинга с использованием Docker, Prometheus и Grafana.
 
-What it shows
- CPU usage
- Memory usage
- System uptime
+Что она показывает: использование ЦП, использование памяти, время работы системы
 
-Tools used
-Docker
-Prometheus
-Grafana
-Node Exporter
+Используемые инструменты: Docker, Prometheus, Grafana, Node Exporter
 
-Result
-A working observability stack on a local VM
-
-Screenshot
-(Add grafana-dashboard.png here)
-
-Author
-Learning DevOps project
+Результат: Рабочий стек мониторинга на локальной виртуальной машине
